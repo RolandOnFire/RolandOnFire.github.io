@@ -10,3 +10,6 @@ By the 1990s there were already over 25,000 stage adaptations, films, television
 * Interesting
 * Lethargic if mind is not consumed by work
 * Peculiar
+
+As Sherlock Holmes said:
+> That's elementary, Watson!

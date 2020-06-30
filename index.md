@@ -13,3 +13,5 @@ By the 1990s there were already over 25,000 stage adaptations, films, television
 
 As Sherlock Holmes said:
 > That's elementary, Watson!
+
+<img src="broken.png">
